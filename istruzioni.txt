@@ -11,6 +11,8 @@ quel file ( probabilmente noto come 'quaderno.txt' ) non vanno solo ricopiate se
 è necessario riformularle in modo che il risultato sia scritto con il lessico scientifico adeguato,
 le voci verbali e le strutture grammaticali usate nel file che descrive l'esperimento in laboratorio NON sono vincolanti:
 sono soltanto una descrizione brutale e non curata degli eventi e dei metodi usati. Il loro stile non è da prendere come esempio.
+È importante notare che non bisogna esplicitare nel testo che si sta scrivendo un trattato scientifico,
+e non bisogna esplicitare neanche che si sta seguendo delle istruzioni per scrivere la relazioni.
 
 STRUTTURA DELLA RELAZIONE:
 1. Introduzione / scopo dell’esperienza
@@ -25,8 +27,9 @@ e adesso vediamo la struttura di ogni singola sezione
 
 1) Introduzione / scopo dell’esperienza:
 Descrivere brevemente:
-– quale fenomeno andremo ad osservare e in quale sistema fisico, breve descrizione del metodo
-– quali quantità fisiche vogliamo misurare, lo scopo di tutto l'esperimento
+- quale fenomeno andremo ad osservare e in quale sistema fisico, breve descrizione del metodo
+- quali quantità fisiche vogliamo misurare, lo scopo di tutto l'esperimento
+e menzionare sempre qualche dettaglio sul trattamento delle incertezze dei risultati.
 
 2) Modello teorico utilizzato
 Enunciare il funzionamento del sistema sotto esame
