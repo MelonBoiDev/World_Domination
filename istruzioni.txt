@@ -33,8 +33,8 @@ e adesso vediamo la struttura di ogni singola sezione
 Descrivere brevemente:
 - quale fenomeno andremo ad osservare e in quale sistema fisico, breve descrizione del metodo
 - quali quantità fisiche vogliamo misurare, lo scopo di tutto l'esperimento
-e menzionare sempre qualche dettaglio sul trattamento delle incertezze dei risultati.
-Evitare di spiegare eccessivamente quello che sarà speigato nelle sezioni successive.
+Evitare di spiegare gli argomenti delle sezioni successive, ad esempio non descrivere com'è stata montata la struttura.
+Menzionare SEMPRE che nel metodo di analisi dei dati si è prestata attenzioni all'elaborazione dell'incertezza del risultato.
 
 2) Modello teorico utilizzato
 Enunciare il funzionamento del sistema sotto esame
