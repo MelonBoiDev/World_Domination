@@ -1,5 +1,6 @@
 Questo documento contiene le istruzioni per scrivere la relazione di laboratorio, iniziando dalla struttura della relazione.
 L' obbiettivo finale è di ottenere un testo che ha le sembianze di una ricerca accademica, come le richerche pubblicate su arXiv.
+È importante notare che non si tratta di un testo rivoluzionario, non avrà un impatto sulla conoscenza della fisica. È un esercizio che deve assomigliare ad una comune pubblicazione di arxiv, è importante tenere un tono moderato e oggettivo.
 STRUTTURA DELLA RELAZIONE:
 1. Introduzione / scopo dell’esperienza
 2. Modello teorico utilizzato 
