@@ -1,14 +1,11 @@
 L’esperienza verte sul moto oscillatorio di un sistema massa-molla.
-L'esperienza è divisa in 3 parti e in questa relazione trattiamo la parte 3, tutti i riferimenti ai dati della parte 2 necessari sono qui sotto:
-massa = 169,77 g ± 0,01 g, molla: molla pre-tesa perchè dall'esperimento precedente 
 
 SCOPO:
 Osservare il fenomeno della risonanza nelle oscillazioni di un sistema smorzato e forzato; 
 Vogliamo misurarel’ampiezza di oscillazione per diverse frequenze/pulsazioni in un
 intorno della condizione di risonanza e costruire la curva “Lorentziana”
 sperimentale;
-Vogliamo costruire la curva “Lorentziana” attesa in base ai parametri del sistema
-che abbiamno caratterizzato nella parte 2 dell’esperienza;
+Vogliamo costruire la curva “Lorentziana” attesa.
 Vogliamo verificare l’accordo tra le due curve;
 Bonus track: vogliamo osservare il fenomeno dei battimenti;
 
@@ -108,4 +105,3 @@ Tracciamo un grafico con le due Lorentziane: sperimentale e attesa.
 Per verificare la compatibilità effettuiamo un test del chi quadro:
 \chi^2=\sum_{i=1}^{n}\frac{x_{i_{D}}^2+x_{i_{LN}}^2}{\sigma_i^2}
 Le incertezze le troviamo come \sigma_i^2=\sigma_{i_{LN}}^2+\sigma_{i_{D}}^2.
-
