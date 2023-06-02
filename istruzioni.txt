@@ -1,6 +1,17 @@
 Questo documento contiene le istruzioni per scrivere la relazione di laboratorio, iniziando dalla struttura della relazione.
 L' obbiettivo finale è di ottenere un testo che ha le sembianze di una ricerca accademica, come le richerche pubblicate su arXiv.
-È importante notare che non si tratta di un testo rivoluzionario, non avrà un impatto sulla conoscenza della fisica. È un esercizio che deve assomigliare ad una comune pubblicazione di arxiv, è importante tenere un tono moderato e oggettivo.
+È importante notare che non si tratta di un testo rivoluzionario, non avrà un impatto sulla conoscenza della fisica.
+È un esercizio che deve assomigliare ad una comune pubblicazione di arxiv, è importante tenere un tono moderato e oggettivo.
+Infine questo documento ha solo delle istruzioni ma è importante che si arrivi ad ogni singolo obbiettivo previsto da questo documento,
+ogni mancanza conta come errore. Se ci si accorge che ci sono delle contraddizioni NON BISOGNA ESITARE a farle notare.
+È ASSOLUTAMENTE VIETATO INVENTARE DATI.
+Abbinato a questo file verrà successivamente mandato un altro file che contiene la descrizione
+di cosa si è fatto in laboratorio e dell'analisi dei dati raccolti. Le informazioni contenute in
+quel file ( probabilmente noto come 'quaderno.txt' ) non vanno solo ricopiate seguendo la scaletta,
+è necessario riformularle in modo che il risultato sia scritto con il lessico scientifico adeguato,
+le voci verbali e le strutture grammaticali usate nel file che descrive l'esperimento in laboratorio NON sono vincolanti:
+sono soltanto una descrizione brutale e non curata degli eventi e dei metodi usati. Il loro stile non è da prendere come esempio.
+
 STRUTTURA DELLA RELAZIONE:
 1. Introduzione / scopo dell’esperienza
 2. Modello teorico utilizzato 
