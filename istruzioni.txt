@@ -1,0 +1,90 @@
+Questo documento contiene le istruzioni per scrivere la relazione di laboratorio, iniziando dalla struttura della relazione.
+L' obbiettivo finale è di ottenere un testo che ha le sembianze di una ricerca accademica, come le richerche pubblicate su arXiv.
+STRUTTURA DELLA RELAZIONE:
+1. Introduzione / scopo dell’esperienza
+2. Modello teorico utilizzato 
+3. Apparato e strumentazione 
+4. Misure effettuate 
+5. Analisi dati 
+6. Conclusioni 
+7. Abstract, l'abstract va alla fine 
+
+e adesso vediamo la struttura di ogni singola sezione
+
+1) Introduzione / scopo dell’esperienza:
+Descrivere brevemente:
+– quale fenomeno andremo ad osservare e in quale sistema fisico, breve descrizione del metodo
+– quali quantità fisiche vogliamo misurare, lo scopo di tutto l'esperimento
+
+2) Modello teorico utilizzato
+Enunciare il funzionamento del sistema sotto esame
+Riportare (senza dimostrare) le leggi fisiche che
+vogliamo verificare e/o che utilizzeremo per effettuare
+le misure che ci siamo prefissati nell’introduzione
+– NB: tutte le quantità fisiche riportate nelle formule
+vanno introdotte. Non dare per scontato nulla
+anche se di uso comune.
+Non riportare la teoria dai libri di testo
+N.B. In questa sezione non state ancora parlando del
+vostro strumento specifico
+
+3) Apparato e strumentazione
+Descrizione dell’apparato di misura e del suo montaggio (se appropriato)
+– dettagli sulle parti salienti:
+Ho verificato la stabilita’ dell’apparato?
+Elenco degli strumenti di misura disponibili con i dati salienti:
+– Sensibilità, portata, risoluzione
+– NON METTERE dettagli di contorno:
+il colore delle cose non è importante.
+
+4) Misure effettuate
+Descrizione del procedimento di misura in tutte le sue fasi
+– Verifica che l’apparato risponde alle leggi ipotizzate
+– Eventuale calibrazione se necessaria
+– Misure volte a raggiungere lo scopo dell’esperienza
+– Misure successive volte a verificare ipotesi nate nel corso della presa dati (es. misura di “rumore”)
+Tutti I dati grezzi devono essere presenti nella relazione. Usare tabelle.
+– Attenzione alle cifre significative
+Importantissimo: considerazioni sulle incertezze
+Quali sono le incertezze sistematiche su ciascuna misura? Quali non conosco?
+Quale incertezza mi aspetto che sia dominante nella misura della grandezza derivata che è scopo dell’esperienza?
+
+5) Analisi dati
+Descrizione del metodo con cui ho calcolato grandezze derivate e con cui ho propagato gli errori
+Specificare i risultati dei fit lineari (o altri) con il test del chi quadro
+Riportare tutti i risultati con l’incertezza.
+– 𝑨 = (𝑿 ± ∆𝑿) unità
+– L’arrotondamento corretto alle sole cifre significative è importantissimo!
+Considerazioni sugli errori: sono dominato dalla statistica o dalla sistematica?
+– Come ridurre l’errore dominante?
+– Ho potuto valutare le sistematiche ignote sollevate in precedenza?
+Verificare la compatibilità dei risultati:
+– tra loro, se piú di una misura è stata fatta. Es: k_statico e k_dinamico di una molla
+– Con il valore atteso se disponibile: v (suono) calcolata con i parametri dell’aria
+
+6) conclusioni
+È un riassunto dei risultati.
+Fare riferimento all’introduzione / scopo dell’esperienza per dire se è stato osservato quanto ci si attendeva
+Riportare i risultati principali già riportati in precedenza commentandoli:
+– Il valore misurato è / non è in accordo con il valore atteso o tra loro se più misure sono state fatte
+– La legge fisica ipotizzata (es linearità della molla) è stata verificata in questo range di valori della quantità A
+Commentare in che misura l’apparato e gli strumenti erano adeguati per la misura
+– E quale aspetto è dunque necessario migliorare
+No commenti personali
+– Siamo stati bravi/medi/pessimi
+– L’esperienza ci è piaciuta / siamo soddisfatti
+– La strumentazione era imprecisa, bisognerebbe rifare tutto con strumenti migliori
+– Non abbiamo avuto tempo di fare questo o quello
+
+7) Abstract
+Un articolo scientifico é corredato in testa da un abstract che non ne é parte integrante
+Riassume sinteticamente l’articolo in modo che il lettore possa valutare di cosa si tratta e
+decidere se leggerlo oppure può essere condiviso per altri scopi (es. peer-review)
+Di solito è una sintesi ulteriore tra Introduzione e Conclusioni
+Deve riportare i risultati principali, ma senza supporre che il lettore abbia letto l’articolo.
+
+Considerazioni da fare mentre si scrive la relazione:
+Porsi il problema della non idealità dell’apparato, delle
+incertezze e di quali e come queste influiscano sul risultato
+finale.
+Usare un linguaggio scientifico.
