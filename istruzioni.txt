@@ -13,6 +13,9 @@ le voci verbali e le strutture grammaticali usate nel file che descrive l'esperi
 sono soltanto una descrizione brutale e non curata degli eventi e dei metodi usati. Il loro stile non è da prendere come esempio.
 È importante notare che non bisogna esplicitare nel testo che si sta scrivendo un trattato scientifico,
 e non bisogna esplicitare neanche che si sta seguendo delle istruzioni per scrivere la relazioni.
+È importante evitare di fare riferimento alla bravura degli sperimentatori,
+oppure esprimersi sulla qualità degli strumenti, o sulla qualità delle tecniche matematiche usate per analizzare i dati.
+È IMPORTANTISSIMO EVITARE DI AGGIUNGERE OPINIONI PERSONALI DI QUALSIASI TIPO.
 
 STRUTTURA DELLA RELAZIONE:
 1. Introduzione / scopo dell’esperienza
