@@ -1,3 +1,9 @@
+Questo file contiene la descrizione del processo e dei metodi dell'esperimento trattato.
+Si tratta solo di una descrizione degli eventi e dei concetti usati, lo stile non è curato e quindi non è vincolante.
+Si consiglia fortemente di rielaborare I seguenti contenuti in modo che sembrino una relazione accademica, 
+matenendo un tono scientifico, oggettivo e moderato.
+
+OGGETTO:
 L’esperienza verte sul moto oscillatorio di un sistema massa-molla.
 
 SCOPO:
