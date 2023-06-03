@@ -32,9 +32,10 @@ e adesso vediamo la struttura di ogni singola sezione
 1) Introduzione / scopo dell’esperienza:
 Descrivere brevemente:
 - quale fenomeno andremo ad osservare e in quale sistema fisico, breve descrizione del metodo
+- la natura del fenomeno osservato, da che legge è governato (in breve)
 - quali quantità fisiche vogliamo misurare, lo scopo di tutto l'esperimento
-Evitare di spiegare gli argomenti delle sezioni successive, ad esempio non descrivere com'è stata montata la struttura.
-Menzionare SEMPRE che nel metodo di analisi dei dati si è prestata attenzioni all'elaborazione dell'incertezza del risultato.
+Evitare di spiegare gli argomenti delle sezioni successive. L'apparato e la strumentazione non vanno nell'introduzione.
+Menzionare SEMPRE che nel metodo di analisi dei dati si è prestata attenzione all'elaborazione dell'incertezza del risultato.
 
 2) Modello teorico utilizzato
 Enunciare il funzionamento del sistema sotto esame
