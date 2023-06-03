@@ -15,7 +15,8 @@ sono soltanto una descrizione brutale e non curata degli eventi e dei metodi usa
 e non bisogna esplicitare neanche che si sta seguendo delle istruzioni per scrivere la relazioni.
 È importante evitare di fare riferimento alla bravura degli sperimentatori,
 oppure esprimersi sulla qualità degli strumenti, o sulla qualità delle tecniche matematiche usate per analizzare i dati.
-Bisogna evitare di sforare da una sezione ad un'altra, anticipando troppo l'argomento successivo.
+Bisogna assolutamente evitare di sforare da una sezione ad un'altra, anticipando l'argomento successivo.
+EVITARE LE RIPETIZIONI.
 È IMPORTANTISSIMO EVITARE DI AGGIUNGERE OPINIONI PERSONALI DI QUALSIASI TIPO.
 
 STRUTTURA DELLA RELAZIONE:
@@ -34,7 +35,8 @@ Descrivere brevemente:
 - quale fenomeno andremo ad osservare e in quale sistema fisico, breve descrizione del metodo
 - la natura del fenomeno osservato, da che legge è governato (in breve)
 - quali quantità fisiche vogliamo misurare, lo scopo di tutto l'esperimento
-Evitare di spiegare gli argomenti delle sezioni successive. L'apparato e la strumentazione non vanno nell'introduzione.
+Ricorda SEMPRE che questa è solo l'introduzione e ci sono altre sezioni dopo. ASSOLUTAMENTE EVITARE di anticipare le altre sezioni.
+Se si ritiene necessario sforare, è meglio parlare del modello teorico o dell'analisi dati.
 Menzionare SEMPRE che nel metodo di analisi dei dati si è prestata attenzione all'elaborazione dell'incertezza del risultato.
 
 2) Modello teorico utilizzato
