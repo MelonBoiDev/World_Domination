@@ -1,2 +1,2 @@
 # World_Domination
-piattaforma per dare accesso a txt files
+This repository is a meme used to quickly transfer files and or give access to them easily.
