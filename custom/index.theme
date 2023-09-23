@@ -1,6 +1,0 @@
-[theme]
-name=lightdm-evo
-description=A modern and sleek LightDM theme.
-engine=lightdm-webkit2-greeter
-url=index.html
-session=bspwm

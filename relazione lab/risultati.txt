@@ -1,0 +1,112 @@
+INTRODUZIONE 
+
+L'obiettivo di questa relazione è esaminare il fenomeno della risonanza in un sistema massa-molla sottoposto a oscillazioni forzate e smorzate. Il sistema massa-molla è un modello fisico fondamentale, utilizzato per descrivere una vasta gamma di fenomeni oscillatori. Questo sistema è governato dalla legge di Hooke, che afferma che la forza esercitata dalla molla è proporzionale allo spostamento della massa dalla sua posizione di equilibrio.
+
+Il fenomeno di risonanza si verifica quando la frequenza della forza esterna applicata al sistema coincide con la frequenza naturale del sistema, portando a un aumento significativo dell'ampiezza delle oscillazioni. In questo esperimento, siamo interessati a osservare e analizzare la curva di risonanza, nota come curva "Lorentziana", e a confrontare i risultati sperimentali con le previsioni teoriche.
+
+Abbiamo misurato l'ampiezza di oscillazione per diverse frequenze/pulsazioni in un intorno della condizione di risonanza e costruito la curva "Lorentziana" sperimentale. Abbiamo anche costruito la curva "Lorentziana" attesa e verificato l'accordo tra le due curve. Come bonus, abbiamo osservato il fenomeno dei battimenti.
+
+Un aspetto di questo esperimento riguarda la gestione delle incertezze. Durante la raccolta dei dati, l'analisi e l'interpretazione dei risultati, le incertezze sono state stimate e propagate. Per minimizzare l'incertezza, abbiamo adottato una serie di procedure. Queste includono l'uso di strumenti calibrati, la ripetizione delle misurazioni per mitigare l'errore casuale e l'applicazione di tecniche statistiche appropriate per l'analisi dei dati. Questo approccio ha contribuito a ridurre l'incertezza associata ai risultati ottenuti.
+
+#####################################################################
+
+MODELLO TEORICO
+
+Il modello teorico utilizzato per questo esperimento è il sistema massa-molla smorzato e forzato. Questo sistema è descritto da una serie di equazioni che rappresentano diversi aspetti del suo comportamento.
+
+Il moto del sistema in assenza di forzante esterna è governato dal moto armonico smorzato, che tiene conto dell'attrito presente nel sistema. Inserire la formula del moto armonico smorzato qui.
+
+La pulsazione propria dell'oscillatore rappresenta la frequenza naturale del sistema, ovvero la frequenza alla quale il sistema oscilla in assenza di forzante esterna e smorzamento. Inserire la formula per la pulsazione propria dell'oscillatore qui.
+
+Il termine di smorzamento descrive l'effetto dell'attrito sul sistema, che tende a ridurre l'ampiezza delle oscillazioni nel tempo. In questo modello, l'attrito è considerato viscoso, proporzionale alla velocità. Inserire la formula per il termine di smorzamento qui.
+
+Quando il sistema è soggetto a una forza esterna periodica, il suo comportamento cambia ed è descritto dal moto armonico smorzato e forzato, in cui il termine aggiuntivo descrive l'effetto della forza. Inserire la formula del moto armonico smorzato e forzato qui.
+
+La soluzione dell'equazione del moto permette di determinare l'ampiezza massima delle oscillazioni in funzione della frequenza forzante. Inserire la formula per l'ampiezza massima qui.
+
+La funzione descrive come l'ampiezza delle oscillazioni varia in funzione della frequenza forzante ed assume la forma di una Lorentziana. Inserire la formula per la curva Lorentziana qui.
+
+Utlizzeremo le seguenti proprietà principali della curva Lorentziana, come il centroide, il valore del massimo e la larghezza a metà altezza (FWHM), poichè forniscono informazioni sul comportamento del sistema in risonanza. Inserire le formule corrispondenti qui.
+
+Per quanto riguarda le non idealità del modello, ci sono diverse fonti di attrito non ideali che possono influenzare il comportamento del sistema. Ad esempio, l'attrito può essere proporzionale alla velocità al quadrato, piuttosto che alla velocità. Questo tipo di attrito non ideale è stato minimizzato sperimentalmente con i dati dell'esperienza precedente. Inoltre, l'energia può essere sottratta dal sistema a causa della deformazione della molla o perché il sistema non oscilla in modo perfettamente verticale.
+
+#####################################################################
+
+APPARATO SPERIMENTALE
+
+L'apparato sperimentale utilizzato per questo esperimento è costituito dai seguenti componenti:
+
+Molla: La molla utilizzata nell'esperimento ha una massa di 22,45 g. La molla è fissa solo nel suo estremo superiore.
+
+Massa: La massa utlizzata vale 169,77 g ed è attaccata all'estremità inferiore della molla. Questa massa può oscillare liberamente lungo la direzione verticale.
+
+Sensore di posizione (Sonar): Un sensore di posizione è posizionato sotto la massa per misurare la sua posizione nel tempo. Il sensore ha una sensibilità di 0,15 m, una risoluzione di 0,001 m e una portata di 8 m.
+
+Attuatore: Un attuatore è utilizzato per applicare una forza esterna periodica alla massa. L'ampiezza e la frequenza della forza applicata possono essere regolate. L'attuatore è un motore elettrico che si muove avanti e indietro in modo da imitare la forma del segnale elettrico.
+
+Bilancia: Una bilancia di precisione è utilizzata per misurare la massa. La bilancia ha una sensibilità di 10 g, una risoluzione di 0,01 g e una portata di 4000 g.
+
+Metro a nastro: Un metro a nastro è utilizzato per misurare la lunghezza a riposo della molla e la distanza percorsa dalla massa durante le oscillazioni. Il metro a nastro ha una sensibilità di 1 mm, una risoluzione di 1 mm e una portata di 3 m.
+
+Generatore di segnale elettrico: Questo dispositivo converte una frequenza e un'ampiezza in un determinato segnale elettrico. Il generatore usato misura la frequenza del segnale in uscita.
+
+Computer: Un software è utilizzato per registrare i dati dal sensore di posizione e per elaborarli.
+
+Supporto e struttura: L'intero sistema è montato su un supporto stabile, realizzato con aste in acciaio e morsetti, per garantire la stabilità durante l'esperimento. Abbiamo montato l'attuatore capovolto sul nostro supporto e appeso la molla al suo estremo mobile. Abbiamo poi appeso la massa all'altra estremità della molla e aggiunto un disco riempito da una zanzariera per aumentare il suo attrito con l'aria e velocizzare il processo della risonanza.
+
+#####################################################################
+
+MISURE EFFETTUATE
+
+Per l'esperimento, è stata scelta una configurazione massa-molla che si avvicinasse il più possibile al modello teorico. La massa è stata aumentata al fine di ottenere tempi di battimento più lunghi e per evitare che l'ampiezza della Lorentziana aumentasse eccessivamente.
+
+Inizialmente, il sistema è stato messo in funzione e la pulsazione di risonanza approssimativa, f_0, è stata osservata. L'ampiezza della forzante è stata selezionata in modo da essere costante e abbastanza grande da consentire osservazioni delle oscillazioni fino a una distanza approssimativa di FWHM/2 dal centro, ma non così grande da far sì che le spire della molla raggiungessero la "battuta" durante la risonanza.
+
+Per la raccolta dei dati, è stata scelta una frequenza della forzante, che è stata inserita nel generatore sinusoidale, e i dati sono stati poi acquisiti tramite il sonar. Utilizzando i dati raccolti, è stata effettuata una media dei massimi e una media dei minimi utilizzando il software CAPSTONE.
+
+La stima sperimentale della frequenza di risonanza è stata ottenuta cercando direttamente dai dati la frequenza che massimizzava la risonanza. Successivamente, il valore è stato leggermente modificato per misurare più precisamente vicino alla frequenza di risonanza.
+
+Sono state misurate le ampiezze di oscillazione per circa 10 frequenze, di cui almeno 5 all'interno dell'intervallo ±FWHM/2 dal centro.
+
+#####################################################################
+
+ANALISI DATI
+
+Per l'analisi dei dati, è stato necessario calcolare l'ampiezza come differenza tra il valore massimo e il valore minimo dei dati raccolti.
+Successivamente, è stata propagata l'incertezza sui dati per ottenere un'incertezza associata all'ampiezza calcolata.
+
+Per determinare la larghezza a metà altezza (FWHM), è stato calcolato il valore di metà altezza. Questo valore rappresenta il punto in cui l'ampiezza dell'oscillazione si riduce del 50% rispetto al suo massimo.
+Il calcolo della FWHM è stato effettuato identificando i dati corrispondenti alla metà altezza e quelli al di fuori di essa. Attraverso l'interpolazione dei valori di soglia dagli estremi, è stata determinata la larghezza a metà altezza. L'incertezza della FWHM è stata affidata come il massimo del range di valori in cui può variare la vera FWHM in assenza di stime migliori.
+
+Da questa FWHM, è stato calcolato il termine di smorzamento gamma utilizzando la formula gamma = FWHM/(2*sqrt(3)).
+Il termine di smorzamento gamma è una quantità che descrive l'ampiezza di attenuazione dell'oscillazione nel tempo. Il suo calcolo è stato essenziale per caratterizzare l'andamento temporale dell'oscillazione.
+
+Successivamente, è stata calcolata la Lorentziana attesa. Questo calcolo è stato effettuato sostituendo i valori noti, come omega_0, omega_f e gamma, nella formula della Lorentziana. Ottenere la Lorentziana attesa era importante per confrontare i dati sperimentali con i risultati previsti dalla teoria e valutare l'aderenza tra di essi.
+Per garantire una corretta comparazione tra i dati teorici e sperimentali, è stata eseguita la normalizzazione della Lorentziana teorica. Questo processo ha implicato l'imposizione di un coefficiente moltiplicativo tale che la somma delle misure teoriche fosse uguale alla somma delle misure sperimentali. La normalizzazione è stata eseguita al fine di consentire un confronto quantitativo diretto tra i due insiemi di dati.
+INSERIRE LA FORMULA.
+
+Infine, al fine di valutare la compatibilità tra la Lorentziana sperimentale e quella attesa, è stato eseguito un test del chi quadro. 
+INSERIRE LE FORMULE.
+
+#####################################################################
+
+CONCLUSIONI
+
+L'analisi dei dati raccolti durante l'esperimento ha confermato il valore stimato della frequenza di risonanza. Il valore ottenuto sperimentalmente per la frequenza di risonanza è risultato essere (INSERIRE VALORE), in accordo con il valore teorico previsto.
+
+Il confronto tra la curva di risonanza sperimentale e quella teorica ha mostrato un'elevata compatibilità. Il test del chi quadro ha confermato la compatibilità tra le due curve con una probabilità di (INSERIRE VALORE).
+
+Questi risultati confermano la validità del modello teorico utilizzato per descrivere il comportamento del sistema massa-molla smorzato e forzato. Tuttavia, è importante notare che il modello è un'approssimazione e non tiene conto di tutte le non idealità presenti nel sistema reale.
+
+Inoltre, l'apparato e gli strumenti utilizzati per l'esperimento si sono dimostrati adeguati per la misura. Nonostante ciò, è possibile che miglioramenti specifici potrebbero ridurre ulteriormente le incertezze e migliorare la precisione dei risultati.
+
+In conclusione, l'esperimento ha permesso di esaminare il fenomeno della risonanza in un sistema massa-molla smorzato e forzato, e di confrontare i risultati sperimentali con le previsioni teoriche.
+
+#####################################################################
+
+ABSTRACT
+
+Questo studio esamina il fenomeno della risonanza in un sistema massa-molla sottoposto a oscillazioni forzate e smorzate. L'obiettivo principale è stato quello di osservare il comportamento del sistema quando è soggetto a una forza esterna periodica, con particolare attenzione al fenomeno della risonanza. Il valore sperimentale ottenuto per la frequenza di risonanza è risultato in accordo con le aspettative teoriche. La curva di risonanza sperimentale è stata confrontata con la curva teorica, e la compatibilità tra le due è stata quantificata attraverso il test del chi quadro, risultando in una probabilità di compatibilità di (INSERIRE VALORE). Questi risultati confermano la validità del modello teorico utilizzato per descrivere il comportamento del sistema.
+
+
+
